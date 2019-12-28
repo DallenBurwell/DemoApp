@@ -10,7 +10,7 @@ export default function LinksScreen() {
        * Go ahead and delete ExpoLinksView and replace it with your content;
        * we just wanted to provide you with some helpful links.
        */}
-      <DJLinksView />
+      <ExpoLinksView />
     </ScrollView>
   );
 }
